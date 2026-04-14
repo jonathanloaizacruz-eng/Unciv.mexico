@@ -1,0 +1,73 @@
+{
+  "atlas": [
+    {
+      "name": "MexicoAtlas",
+      "textures": [
+        {
+          "name": "Guerrero Jaguar",
+          "path": "units/GuerreroJaguar.png"
+        },
+        {
+          "name": "Guerrero Águila",
+          "path": "units/GuerreroAguila.png"
+        },
+        {
+          "name": "Arquero Maya",
+          "path": "units/ArqueroMaya.png"
+        },
+        {
+          "name": "Caballero Tlaxcalteca",
+          "path": "units/CaballeroTlaxcalteca.png"
+        },
+        {
+          "name": "Rural",
+          "path": "units/Rural.png"
+        },
+        {
+          "name": "Federal",
+          "path": "units/Federal.png"
+        },
+        {
+          "name": "Zapatista",
+          "path": "units/Zapatista.png"
+        },
+        {
+          "name": "Comando Mariachi",
+          "path": "units/ComandoMariachi.png"
+        },
+        {
+          "name": "Templo Mayor",
+          "path": "buildings/TemploMayor.png"
+        },
+        {
+          "name": "Pirámide de Kukulcán",
+          "path": "buildings/PiramideKukulcan.png"
+        },
+        {
+          "name": "Biblioteca Palafoxiana",
+          "path": "buildings/BibliotecaPalafoxiana.png"
+        },
+        {
+          "name": "Museo Nacional de Antropología",
+          "path": "buildings/MuseoAntropologia.png"
+        },
+        {
+          "name": "Palacio Nacional",
+          "path": "buildings/PalacioNacional.png"
+        },
+        {
+          "name": "Catedral Metropolitana",
+          "path": "buildings/CatedralMetropolitana.png"
+        },
+        {
+          "name": "Castillo de Chapultepec",
+          "path": "buildings/CastilloChapultepec.png"
+        },
+        {
+          "name": "Basílica de Guadalupe",
+          "path": "buildings/BasilicaGuadalupe.png"
+        }
+      ]
+    }
+  ]
+}

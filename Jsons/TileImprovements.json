@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Chinampas",
+    "terrainsCanBeBuiltOn": ["Fresh water"],
+    "food": 2,
+    "production": 1,
+    "techRequired": "Agriculture",
+    "uniques": [
+      "Can only be built on [Fresh water] tiles",
+      "[+1 Food] from [Fresh water] tiles"
+    ],
+    "civilopediaText": ["Las chinampas son islas artificiales flotantes usadas por los aztecas para agricultura intensiva."]
+  }
+]

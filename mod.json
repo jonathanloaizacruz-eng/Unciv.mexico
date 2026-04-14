@@ -1,0 +1,12 @@
+{
+  "name": "México",
+  "author": "Jonathan Loaiza Cruz",
+  "description": "Civilización de México con Porfirio Díaz como líder, unidades exclusivas, edificios temáticos y sonidos mexicanos.",
+  "version": "1.0",
+  "url": "https://github.com/jonathanloaizacruz-eng/Unciv.mexico",
+  "backgroundImage": "background.png",
+  "modOptions": {
+    "isBaseRuleset": false,
+    "isPartialRuleset": true
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Plata",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": ["Hill", "Mountain"],
+    "production": 2,
+    "uniques": [
+      "Cannot be traded",
+      "Only [México] can use"
+    ],
+    "revealedBy": "Mining",
+    "improvement": "Mine"
+  },
+  {
+    "name": "Petróleo",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": ["Coast", "Desert"],
+    "production": 3,
+    "uniques": [
+      "Cannot be traded",
+      "Only [México] can use",
+      "[+1 Production] from [Oil Well] improvements"
+    ],
+    "revealedBy": "Refining",
+    "improvement": "Oil Well"
+  },
+  {
+    "name": "Cacao",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Jungle", "Forest"],
+    "uniques": [
+      "Cannot be traded",
+      "Only [México] can use",
+      "[+2 Happiness] [in this city]"
+    ],
+    "revealedBy": "Agriculture",
+    "improvement": "Plantation"
+  },
+  {
+    "name": "Agave",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Plains", "Desert"],
+    "food": 1,
+    "production": 1,
+    "uniques": [
+      "Cannot be traded",
+      "Only [México] can use"
+    ],
+    "revealedBy": "Agriculture",
+    "improvement": "Farm"
+  }
+]

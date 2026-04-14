@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Guerrero Jaguar",
+    "unitType": "Melee",
+    "replaces": "Warrior",
+    "uniqueTo": "México",
+    "cost": 40,
+    "movement": 2,
+    "strength": 8,
+    "rangedStrength": 0,
+    "requiredTech": "Bronze Working",
+    "uniques": [
+      "[+50]% Strength <vs [Mounted] units>",
+      "Can move after attacking"
+    ],
+    "attackSound": "arrow",
+    "civilopediaText": ["Los Guerreros Jaguar eran élite azteca, temidos por su ferocidad en batalla."]
+  },
+  {
+    "name": "Guerrero Águila",
+    "unitType": "Melee",
+    "replaces": "Swordsman",
+    "uniqueTo": "México",
+    "cost": 75,
+    "movement": 2,
+    "strength": 14,
+    "rangedStrength": 0,
+    "requiredTech": "Iron Working",
+    "uniques": [
+      "[+25]% Strength <when attacking>",
+      "Can capture defeated Barbarian units"
+    ],
+    "attackSound": "arrow",
+    "civilopediaText": ["Los Guerreros Águila eran la élite de los aztecas, capturando enemigos para sacrificios."]
+  },
+  {
+    "name": "Arquero Maya",
+    "unitType": "Ranged",
+    "replaces": "Archer",
+    "uniqueTo": "México",
+    "cost": 40,
+    "movement": 2,
+    "strength": 5,
+    "rangedStrength": 7,
+    "range": 2,
+    "requiredTech": "Archery",
+    "uniques": [
+      "[+1] Sight",
+      "No defensive terrain bonus"
+    ],
+    "attackSound": "arrow",
+    "civilopediaText": ["Arqueros mayas expertos en selvas y ciudades fortificadas."]
+  },
+  {
+    "name": "Caballero Tlaxcalteca",
+    "unitType": "Mounted",
+    "replaces": "Knight",
+    "uniqueTo": "México",
+    "cost": 150,
+    "movement": 4,
+    "strength": 20,
+    "rangedStrength": 0,
+    "requiredTech": "Chivalry",
+    "uniques": [
+      "Can move after attacking",
+      "[+1] Movement <in [Forest] tiles>"
+    ],
+    "attackSound": "horse",
+    "civilopediaText": ["Aliados indígenas tlaxcaltecas que lucharon junto a los conquistadores españoles."]
+  },
+  {
+    "name": "Rural",
+    "unitType": "Mounted",
+    "replaces": "Cavalry",
+    "uniqueTo": "México",
+    "cost": 225,
+    "movement": 4,
+    "strength": 34,
+    "rangedStrength": 0,
+    "requiredTech": "Military Science",
+    "uniques": [
+      "[+50]% Strength <vs [Barbarian] units>",
+      "Can capture defeated Barbarian units"
+    ],
+    "attackSound": "horse",
+    "civilopediaText": ["La Guardia Rural, policía montada creada por Porfirio Díaz para mantener el orden."]
+  },
+  {
+    "name": "Federal",
+    "unitType": "Gunpowder",
+    "replaces": "Infantry",
+    "uniqueTo": "México",
+    "cost": 300,
+    "movement": 2,
+    "strength": 70,
+    "rangedStrength": 0,
+    "requiredTech": "Replaceable Parts",
+    "uniques": [
+      "[+25]% Strength <in [friendly] territory>",
+      "Can enter foreign territory without open borders"
+    ],
+    "attackSound": "shot",
+    "civilopediaText": ["Soldados federales del ejército mexicano durante la Revolución."]
+  },
+  {
+    "name": "Zapatista",
+    "unitType": "Gunpowder",
+    "replaces": "Rifleman",
+    "uniqueTo": "México",
+    "cost": 235,
+    "movement": 2,
+    "strength": 64,
+    "rangedStrength": 0,
+    "requiredTech": "Rifling",
+    "uniques": [
+      "[+50]% Strength <in [Hill] tiles>",
+      "Can move after attacking"
+    ],
+    "attackSound": "shot",
+    "civilopediaText": ["Guerrilleros zapatistas liderados por Emiliano Zapata en la Revolución Mexicana."]
+  },
+  {
+    "name": "Comando Mariachi",
+    "unitType": "Melee",
+    "replaces": "Marine",
+    "uniqueTo": "México",
+    "cost": 400,
+    "movement": 3,
+    "strength": 65,
+    "rangedStrength": 0,
+    "requiredTech": "Plastics",
+    "uniques": [
+      "Can attack submarines",
+      "[+100]% Strength <vs [Naval] units>",
+      "Can capture defeated enemy [Naval] units"
+    ],
+    "attackSound": "shot",
+    "civilopediaText": ["Fuerzas especiales modernas mexicanas, inspiradas en la cultura mariachi."]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Templo Mayor",
+    "cost": 100,
+    "culture": 2,
+    "faith": 3,
+    "requiredTech": "Masonry",
+    "uniques": [
+      "[+1 Culture] [in this city]",
+      "[+2 Faith] [in this city] <for [Temple] buildings>"
+    ],
+    "replaces": "Temple",
+    "uniqueTo": "México",
+    "quote": "El corazón espiritual de Tenochtitlan.",
+    "civilopediaText": ["El Templo Mayor era el principal templo azteca en la capital, dedicado a Huitzilopochtli y Toci."]
+  },
+  {
+    "name": "Pirámide de Kukulcán",
+    "cost": 120,
+    "food": 2,
+    "requiredTech": "Agriculture",
+    "uniques": [
+      "[+1 Food] [in this city]",
+      "Can only be built on [Coast] tiles"
+    ],
+    "replaces": "Granary",
+    "uniqueTo": "México",
+    "quote": "Pirámide maya en Chichen Itza, símbolo de astronomía.",
+    "civilopediaText": ["La Pirámide de Kukulcán, también conocida como El Castillo, es una maravilla maya con 365 escalones."]
+  },
+  {
+    "name": "Biblioteca Palafoxiana",
+    "cost": 150,
+    "science": 3,
+    "culture": 1,
+    "requiredTech": "Writing",
+    "uniques": [
+      "[+2 Science] [in this city]",
+      "[+1 Culture] [in this city] <for [Library] buildings>"
+    ],
+    "replaces": "Library",
+    "uniqueTo": "México",
+    "quote": "La biblioteca más antigua de América, fundada en 1646.",
+    "civilopediaText": ["La Biblioteca Palafoxiana en Puebla es la biblioteca pública más antigua de América."]
+  },
+  {
+    "name": "Museo Nacional de Antropología",
+    "cost": 300,
+    "culture": 5,
+    "science": 2,
+    "requiredTech": "Archaeology",
+    "uniques": [
+      "[+3 Culture] [in this city]",
+      "[+1 Science] [in this city] <for [Museum] buildings>"
+    ],
+    "replaces": "Museum",
+    "uniqueTo": "México",
+    "quote": "Exhibiendo la rica historia prehispánica.",
+    "civilopediaText": ["El Museo Nacional de Antropología en la Ciudad de México alberga artefactos de culturas mexicanas antiguas."]
+  },
+  {
+    "name": "Palacio Nacional",
+    "cost": 500,
+    "gold": 5,
+    "culture": 3,
+    "requiredTech": "Banking",
+    "uniques": [
+      "[+4 Gold] [in this city]",
+      "[+2 Culture] [in this city] <for [Palace] buildings>"
+    ],
+    "replaces": "Bank",
+    "uniqueTo": "México",
+    "quote": "Sede del gobierno y símbolo de la nación.",
+    "civilopediaText": ["El Palacio Nacional, construido sobre las ruinas del palacio de Moctezuma, es la sede del gobierno mexicano."]
+  },
+  {
+    "name": "Catedral Metropolitana de la Ciudad de México",
+    "cost": 200,
+    "faith": 4,
+    "culture": 2,
+    "requiredTech": "Theology",
+    "uniques": [
+      "[+3 Faith] [in this city]",
+      "[+1 Culture] [in this city] <for [Cathedral] buildings>"
+    ],
+    "replaces": "Cathedral",
+    "uniqueTo": "México",
+    "quote": "La iglesia más grande de América Latina.",
+    "civilopediaText": ["La Catedral Metropolitana, construida sobre el Templo Mayor azteca, es un símbolo de la fusión cultural."]
+  },
+  {
+    "name": "Castillo de Chapultepec",
+    "cost": 400,
+    "culture": 6,
+    "tourism": 4,
+    "requiredTech": "Radio",
+    "uniques": [
+      "[+5 Culture] [in this city]",
+      "[+3 Tourism] [in this city] <for [World Wonder] buildings>"
+    ],
+    "replaces": "Broadcast Tower",
+    "uniqueTo": "México",
+    "quote": "Antigua residencia imperial y militar.",
+    "civilopediaText": ["El Castillo de Chapultepec fue residencia de emperadores aztecas, virreyes y presidentes mexicanos."]
+  },
+  {
+    "name": "Basílica de Santa María de Guadalupe",
+    "cost": 600,
+    "gold": 8,
+    "requiredTech": "Flight",
+    "uniques": [
+      "[+6 Gold] [in this city]",
+      "Provides [1] [Air unit] capacity [in this city]"
+    ],
+    "replaces": "Airport",
+    "uniqueTo": "México",
+    "quote": "Santuario mariano más visitado del mundo.",
+    "civilopediaText": ["La Basílica de Guadalupe es el sitio de las apariciones de la Virgen de Guadalupe en 1531."]
+  }
+]
